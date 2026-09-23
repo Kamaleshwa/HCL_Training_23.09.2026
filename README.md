@@ -15,7 +15,7 @@ for x in a:
 print(",".join(r))
 ```
 ## Output:
-<img width="1399" height="373" alt="image" src="https://github.com/user-attachments/assets/40f967ba-200e-4941-b55a-bde0449b850b" />
+<img width="1118" height="268" alt="image" src="https://github.com/user-attachments/assets/f48aa4fa-0aaa-4fbc-a01c-4a3318589afe" />
 
 ## Code 2 :
 Write a Python program that accepts a sentence and calculate the number of letters and digits. Suppose the following input is supplied to the program: hello world! 123 Then, the output should be: LETTERS 10 DIGITS 3
@@ -35,7 +35,7 @@ print("DIGIT :",digit)
 ```
 
 ## Output:
-<img width="1389" height="419" alt="image" src="https://github.com/user-attachments/assets/a0facad3-281a-4af6-9be9-fb50f312d1ea" />
+<img width="1125" height="305" alt="image" src="https://github.com/user-attachments/assets/bbb9dd38-9545-432d-93e3-107143fc82dd" />
 
 
 ## Code 3 :
@@ -49,5 +49,5 @@ for i in range(1,n+1):
 print(",".join(str(fact)))
 ```
 ## Output:
-<img width="1379" height="395" alt="image" src="https://github.com/user-attachments/assets/35c080b2-f40b-4f6b-b30e-e29c1c47f730" />
+<img width="1132" height="202" alt="image" src="https://github.com/user-attachments/assets/642d1dc5-b9d0-4d4b-aac7-6fc815c5c499" />
 
